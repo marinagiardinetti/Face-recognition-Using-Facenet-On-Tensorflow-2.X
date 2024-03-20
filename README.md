@@ -12,6 +12,8 @@ Adapted to load an image and test on your own dataset.
 
 Make sure your images are good quality (the face recognition is obviously better).
 
+Usefull for Digital Humanities corpora!
+
 
 
 ### Credit: https://github.com/R4j4n/Face-recognition-Using-Facenet-On-Tensorflow-2.X
